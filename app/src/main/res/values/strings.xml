@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Birthday Card</string>
+    <string name="happy_birthday">Happy Birthday Sam!</string>
+    <string name="from_emma">From Emma</string>
+</resources>
